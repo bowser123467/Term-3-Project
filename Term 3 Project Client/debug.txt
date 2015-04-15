@@ -1,0 +1,1 @@
+If this file exists the game will be in debug mode
